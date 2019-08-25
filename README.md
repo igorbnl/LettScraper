@@ -33,7 +33,7 @@
 1. Faça download do repositório para o local desejado
 
 2. Executar no linux/window:
-javar -jar path\.LettPOO.jar
+javar -jar path\.LettScraper.jar
 
 - **Ex Windows:** java -jar "C:\Users\blue case\Desktop\LettScraper\LettScraper\LettScraper.jar"
 - **Ex Linux:** java -jar /home/igor/Área\ de\ Trabalho/LettP2/LettScraper/LettScraper/LettScraper.jar 
