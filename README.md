@@ -35,8 +35,8 @@
 2. Executar no linux/window:
 javar -jar path\.LettPOO.jar
 
-- **Ex Windows:** java -jar "C:\Users\blue case\Desktop\LettScraper\LettScraper.jar"
-- **Ex Linux:** java -jar /home/igor/Área\ de\ Trabalho/LettScraper/LettScraper.jar
+- **Ex Windows:** java -jar "C:\Users\blue case\Desktop\LettScraper\LettScraper\LettScraper.jar"
+- **Ex Linux:** java -jar /home/igor/Área\ de\ Trabalho/LettP2/LettScraper/LettScraper/LettScraper.jar 
 
  3. Inserir a URL para realizar a extração de dados.
  - ![](https://github.com/igorbnl/LettScraper/blob/master/LettScraper/exUSO.png)
