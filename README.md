@@ -5,9 +5,9 @@
 - **Produto:** Processadores
 - **Informaçes que são extraidas:**
 1. O Produto
-2. Preço a vista
-3. Preco parcelado com a quantidade de parcelas
-4. Preco no boleto bancário
+2. Preço à vista
+3. Preço parcelado com a quantidade de parcelas
+4. Preço no boleto bancário
 
 # Links de exemplo:
 1. https://www.kabum.com.br/produto/93112/processador-intel-core-i7-8700-coffee-lake-cache-12mb-3-2ghz-4-6ghz-max-turbo-lga-1151-bx80684i78700
