@@ -1,0 +1,48 @@
+package br.com.ibnl.classes;
+
+public class produto {
+	
+	private String title;
+	private String aVista;
+	private String parcelado;
+	private String boleto;
+	private String descricao;
+	
+	
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public String getaVista() {
+		return aVista;
+	}
+	public void setaVista(String aVista) {
+		this.aVista = aVista;
+	}
+	public String getParcelado() {
+		return parcelado;
+	}
+	public void setParcelado(String parcelado) {
+		this.parcelado = parcelado;
+	}
+	public String getBoleto() {
+		return boleto;
+	}
+	public void setBoleto(String boleto) {
+		this.boleto = boleto;
+	}
+	public String getDescricao() {
+		return descricao;
+	}
+	public void setDescricao(String descricao) {
+		this.descricao = descricao;
+	}
+	
+	
+	
+	
+	
+	
+}

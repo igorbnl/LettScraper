@@ -1,0 +1,10 @@
+package br.com.ibnl.classes;
+
+public class produto {
+	
+	private String title;
+	private String aVista;
+	private String parcelado;
+	private String boleto;
+	private String descricao;
+}

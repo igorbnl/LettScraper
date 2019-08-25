@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\blue case\Desktop\LettScraper\.metadata\.plugins\org.eclipse.jdt.core
+2842528100.index
+1309149401.index
+1120457464.index
